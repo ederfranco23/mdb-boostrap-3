@@ -1,4 +1,4 @@
-# mdb-boostrap-3
+# alternative-mdb-boostrap-3
 
 This is just a standalone alternative repository for mdbootstrap version 3.4.1.
 
